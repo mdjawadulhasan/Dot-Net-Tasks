@@ -1,0 +1,31 @@
+﻿@model List<CourseReg.Models.Course>
+
+
+@{ ViewBag.Title = "Index"; }
+
+<h2>Index</h2>
+
+<form action="/PreRegistration/Create" method="post">
+    <ul>
+        @foreach (var item in Model)
+        {
+<li><input type="checkbox" name="courses[]" value="@item.Id">  @item.Name | </li>}
+    </ul>
+
+
+    <input type="submit" value="Register" >/>
+
+</form>
+
+
+@if (TempData["msg"]!=null && TempData["msg"]=="null") {
+<script>
+    Swal.fire({
+        icon: 'error',
+        title: 'You Can not take less then 5 course ',
+        text: 'Try Again!',
+    })
+</script>
+
+}
+

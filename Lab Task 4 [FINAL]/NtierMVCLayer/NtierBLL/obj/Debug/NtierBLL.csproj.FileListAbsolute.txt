@@ -1,0 +1,16 @@
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\NtierBLL.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\NtierBLL.pdb
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\NtierDLL.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\NtierDLL.pdb
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\obj\Debug\NtierBLL.csproj.AssemblyReference.cache
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\obj\Debug\NtierBLL.csproj.CoreCompileInputs.cache
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\obj\Debug\NtierBLL.csproj.CopyComplete
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\obj\Debug\NtierBLL.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\obj\Debug\NtierBLL.pdb
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\EntityFramework.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\NtierDLL.dll.config
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\EntityFramework.xml
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\AutoMapper.Data.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\AutoMapper.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\AutoMapper.pdb
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierBLL\bin\Debug\AutoMapper.xml

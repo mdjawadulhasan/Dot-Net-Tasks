@@ -1,0 +1,12 @@
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\bin\Debug\NtierDLL.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\bin\Debug\NtierDLL.pdb
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\obj\Debug\NtierDLL.csproj.AssemblyReference.cache
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\obj\Debug\NtierDLL.csproj.CoreCompileInputs.cache
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\obj\Debug\NtierDLL.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\obj\Debug\NtierDLL.pdb
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\bin\Debug\NtierDLL.dll.config
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\bin\Debug\EntityFramework.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\bin\Debug\EntityFramework.xml
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jawad\source\repos\NtierMVCLayer\NtierDLL\obj\Debug\NtierDLL.csproj.CopyComplete
